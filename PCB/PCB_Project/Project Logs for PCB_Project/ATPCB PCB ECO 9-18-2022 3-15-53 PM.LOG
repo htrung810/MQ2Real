@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U2 Old Footprint=40P6 New Footprint=40P6
+Change Component Footprint: Designator=IC1 Old Footprint=DIP794W45P254L959H508Q8 New Footprint=SOP 8
+Added Member To Class: ClassName=ATmega32 Member=Component IC1 LM358 SOP8
+Added Room: Name=ATmega32

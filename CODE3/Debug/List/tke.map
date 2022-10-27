@@ -1,0 +1,50 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+cmd_1                                                                             0x02B3       3
+cmd_baud                                                                          0x02B6      12
+cmd_setup                                                                         0x02C2       5
+cmd_2                                                                             0x02C7      10
+cmd_3                                                                             0x02D1      23
+cmd_8                                                                             0x02E8      13
+_base_y                                                                           0x02F5       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+i                                                                                 R4,R5        2
+_lcd_x                                                                            R6           1
+_lcd_y                                                                            R9           1
+_lcd_maxx                                                                         R8           1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+sim_status                                                                        0x000D5     47
+sim_sendmess                                                                      0x00104     51
+main                                                                              0x00137    173
+_lcd_write_nibble_G101                                                            0x001E4     21
+_lcd_write_data                                                                   0x001F9     12
+lcd_gotoxy                                                                        0x00205     13
+lcd_clear                                                                         0x00212     12
+lcd_putchar                                                                       0x0021E     21
+lcd_puts                                                                          0x00233     17
+lcd_init                                                                          0x00244     46
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+sim_status                                                                        0x000D5     47
+sim_sendmess                                                                      0x00104     51
+main                                                                              0x00137    173
+_lcd_write_nibble_G101                                                            0x001E4     21
+_lcd_write_data                                                                   0x001F9     12
+lcd_gotoxy                                                                        0x00205     13
+lcd_clear                                                                         0x00212     12
+lcd_putchar                                                                       0x0021E     21
+lcd_puts                                                                          0x00233     17
+lcd_init                                                                          0x00244     46

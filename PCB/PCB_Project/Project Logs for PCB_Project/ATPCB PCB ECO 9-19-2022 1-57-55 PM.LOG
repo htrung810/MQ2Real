@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetT1_2 Pin=T1-2
+Added Pin To Net: NetName=NetT1_2 Pin=U3-2
+Added Net: Name=NetT1_2
+Added Member To Class: ClassName=ATmega32 Member=Component U3 LM358N/NOPB

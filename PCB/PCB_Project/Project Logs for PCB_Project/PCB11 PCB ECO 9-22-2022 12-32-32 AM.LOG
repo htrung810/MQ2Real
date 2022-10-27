@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=Coi Pin=U2-22
+Added Component: Designator=JP2(JP 1x6 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(JP 1x6 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Coi Pin=U2-28
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=U2-22
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=U2-23
+Added Net: Name=NetJP2_2
+Added Pin To Net: NetName=NetJP2_3 Pin=JP2-3
+Added Pin To Net: NetName=NetJP2_3 Pin=U2-24
+Added Net: Name=NetJP2_3
+Added Pin To Net: NetName=NetJP2_4 Pin=JP2-4
+Added Pin To Net: NetName=NetJP2_4 Pin=U2-25
+Added Net: Name=NetJP2_4
+Added Pin To Net: NetName=NetJP2_5 Pin=JP2-5
+Added Pin To Net: NetName=NetJP2_5 Pin=U2-26
+Added Net: Name=NetJP2_5
+Added Pin To Net: NetName=NetJP2_6 Pin=JP2-6
+Added Pin To Net: NetName=NetJP2_6 Pin=U2-27
+Added Net: Name=NetJP2_6
+Added Pin To Net: NetName=NetJP3_1 Pin=JP3-1
+Added Pin To Net: NetName=NetJP3_1 Pin=U2-21
+Added Net: Name=NetJP3_1
+Added Pin To Net: NetName=NetJP3_2 Pin=JP3-2
+Added Pin To Net: NetName=NetJP3_2 Pin=U2-20
+Added Net: Name=NetJP3_2
+Added Pin To Net: NetName=NetJP3_3 Pin=JP3-3
+Added Pin To Net: NetName=NetJP3_3 Pin=U2-19
+Added Net: Name=NetJP3_3
+Added Pin To Net: NetName=NetJP3_4 Pin=JP3-4
+Added Pin To Net: NetName=NetJP3_4 Pin=U2-18
+Added Net: Name=NetJP3_4
+Added Pin To Net: NetName=NetJP3_5 Pin=JP3-5
+Added Pin To Net: NetName=NetJP3_5 Pin=U2-17
+Added Net: Name=NetJP3_5
+Added Pin To Net: NetName=NetJP3_6 Pin=JP3-6
+Added Pin To Net: NetName=NetJP3_6 Pin=U2-16
+Added Net: Name=NetJP3_6
+Added Member To Class: ClassName=ATmega32 Member=Component JP2 JP 1x6 2.54
+Added Member To Class: ClassName=ATmega32 Member=Component JP3 JP 1x6 2.54

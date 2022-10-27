@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=L3-2
+Removed Member From Class: ClassName=ATmega32 Member=L3
+Removed Member From Class: ClassName=ATmega32 Member=R7
+Added Room: Name=ATmega32

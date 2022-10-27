@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=OUTA Pin=IC1-1
+Removed Pin From Net: NetName=NetA1_2 Pin=IC1-3
+Removed Pin From Net: NetName=GND Pin=IC1-4
+Removed Pin From Net: NetName=+5 Pin=IC1-8
+Removed Member From Class: ClassName=ATmega32 Member=IC1
+Added Component: Designator=U3(DIP794W45P254L959H508Q8)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM358N/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUTA Pin=U3-1
+Added Pin To Net: NetName=NetA1_2 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=+5 Pin=U3-8
+Added Member To Class: ClassName=ATmega32 Member=Component U3 LM358N/NOPB

@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:5552A951
+NODE:M LEVEL:0 LINE:2 "__MAIN_H"
+NODE:I LEVEL:0 LINE:5 "F:\CAvr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:6 "F:\CAvr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:7 "F:\CAvr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:8 "F:\CAvr\inc\delay.h"
+NODE:I LEVEL:0 LINE:9 "simcom.h"

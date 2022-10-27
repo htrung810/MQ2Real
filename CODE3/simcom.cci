@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:5554A1D8
+NODE:I LEVEL:0 LINE:1 "simcom.h"
+NODE:V LEVEL:0 LINE:3 "i -> R4,R5"
+NODE:V LEVEL:0 LINE:4 "cmd_1 -> RAM:????"
+NODE:V LEVEL:0 LINE:5 "cmd_baud -> RAM:????"
+NODE:V LEVEL:0 LINE:6 "cmd_setup -> RAM:????"
+NODE:V LEVEL:0 LINE:7 "cmd_2 -> RAM:????"
+NODE:V LEVEL:0 LINE:8 "cmd_3 -> RAM:????"
+NODE:V LEVEL:0 LINE:9 "cmd_8 -> RAM:????"
+NODE:F LEVEL:0 LINE:11 "sim_status(void)"
+NODE:F LEVEL:0 LINE:38 "sim_sendmess(void)"
