@@ -1,6 +1,7 @@
 # Báo cháy sử dụng ATmega32 kết hợp sim
 * Thiết kế mạch điện tử + mô phỏng + source code.
 * Phần mềm: Altium, Proteus, codevisionAVR.
+* SIMCOM A7670C, module bán tại linhkienthuduc.
 
 ## PCB trên altium
 ![img1](https://i.imgur.com/Lj14ayw.png)
